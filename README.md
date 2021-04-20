@@ -1,8 +1,4 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
+
 # Scottish Smoking Trends App
 
 This project was completed in collaboration with 3 others.
